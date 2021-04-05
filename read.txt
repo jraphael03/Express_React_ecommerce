@@ -1,6 +1,7 @@
 FRONTEND
 npx create-react-app frontend
-
+npm install react-bootstrap
+downloaded theme from bootswatch (drop file in src folder, and import into index.js)
 
 
 BACKEND
